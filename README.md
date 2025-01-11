@@ -1,7 +1,6 @@
 - Hi, I’m @oliHM15, call me oli.
-- i am fairly inexperienced but i know python, html, and some css.
+i know python, html, and some css. curently learning C
 - thanks for visiting my page.
-
 
 <!---
 oliHM15/oliHM15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
